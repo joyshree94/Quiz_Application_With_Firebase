@@ -1,12 +1,12 @@
 {
   "videos": {
     "1": {
-      "youtubeID": "lb7wT1gVU7Y",
+      "youtubeID": "xpP5L1NuMQU",
       "title": "#01 JavaScript Bangla Tutorial | Introduction to JavaScript",
       "noq": 4
     },
     "2": {
-      "youtubeID": "5Xy-t8k_M4A",
+      "youtubeID": "ER9SspLe4Hg",
       "title": "#1 What is React and How it works - React Tutorial Bangla Series",
       "noq": 4
     },
@@ -16,7 +16,7 @@
       "noq": 4
     },
     "4": {
-      "youtubeID": "CHnTTzD1pAQ",
+      "youtubeID": "Ky1_8cdIQBw",
       "title": "Lesson 1 - Introduction & Installation - TypeScript Bangla ( বাংলা ) Tutorial Series",
       "noq": 4
     },
@@ -31,7 +31,7 @@
       "noq": 4
     },
     "7": {
-      "youtubeID": "qImH1bFubW4",
+      "youtubeID": "XBL0IAhwIuA",
       "title": "#2 - Node.js কি & কিভাবে কাজ করে? - Node.js Tutorial Bangla | Bangla Node js Tutorial",
       "noq": 0
     },
@@ -51,7 +51,7 @@
       "noq": 0
     },
     "11": {
-      "youtubeID": "J5sCarsKX1s",
+      "youtubeID": "UEV4--nS7a0",
       "title": "#3 - Node.js Installation - VS Code Editor Setup - Node.js Tutorial Bangla",
       "noq": 0
     },
@@ -162,7 +162,7 @@
     }
   },
   "quiz": {
-    "lb7wT1gVU7Y": {
+    "xpP5L1NuMQU": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -306,7 +306,7 @@
         }
       ]
     },
-    "5Xy-t8k_M4A": {
+    "ER9SspLe4Hg": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -594,7 +594,7 @@
         }
       ]
     },
-    "CHnTTzD1pAQ": {
+    "Ky1_8cdIQBw": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -1026,7 +1026,7 @@
         }
       ]
     },
-    "qImH1bFubW4": {
+    "XBL0IAhwIuA": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -1172,7 +1172,7 @@
     }
   },
   "answers": {
-    "lb7wT1gVU7Y": {
+    "xpP5L1NuMQU": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -1323,7 +1323,7 @@
         }
       ]
     },
-    "5Xy-t8k_M4A": {
+    "ER9SspLe4Hg": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -1625,7 +1625,7 @@
         }
       ]
     },
-    "CHnTTzD1pAQ": {
+    "Ky1_8cdIQBw": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
@@ -2078,7 +2078,7 @@
         }
       ]
     },
-    "qImH1bFubW4": {
+    "XBL0IAhwIuA": {
       "questions": [
         {
           "title": "How to declare JavaScript variables?",
