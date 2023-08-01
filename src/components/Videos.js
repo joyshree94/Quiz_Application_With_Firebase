@@ -6,7 +6,7 @@ import InfiniteScroll from 'react-infinite-scroll-component';
 
 export default function Videos(){
     const [page, setPage] = useState(1);
-    const { loading, error, videos,hasMore } = useVideoList(0);
+    const { loading, error, videos,hasMore } = useVideoList(page);
     return(
 
         <div>
@@ -15,7 +15,7 @@ export default function Videos(){
           dataLength={videos.length}
           hasMore={hasMore}
           loader="loading...."
-          next={() => setPage(page + 12)}
+          next={() => setPage(page + 8)}
         >
           {videos.map((video) =>
             video.noq > 0 ? (
